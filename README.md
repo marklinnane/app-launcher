@@ -1,2 +1,2 @@
-# app-launcher 2.0
+# app-launcher watchdog
 Branch to add watchdog function to re-launch all apps if any crashes. 
